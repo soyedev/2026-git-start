@@ -11,6 +11,11 @@ GitHub에서 README 수정
     "showSequenceNumbers": true
   },
   "themeVariables": {
+    "fontSize": "22px",
+    "actorFontSize": "22px",
+    "messageFontSize": "21px",
+    "noteFontSize": "21px",
+
     "actorBkg": "#E8F1FF",
     "actorBorder": "#2563EB",
     "actorTextColor": "#0F172A",
